@@ -1,0 +1,1 @@
+jaymatajiKey.alt_lKey.tabKey.enter,...okKey.ctrl_lKey.enterKey.shiftIKey.spaceamKey.spaceokKey.alt_lKey.tabKey.alt_lKey.tabKey.tabKey.tabKey.enterKey.alt_lKey.tabKey.downKey.downKey.leftKey.backspace<101>Key.ctrl_l\x13Key.upKey.ctrl_lKey.shiftKey.upKey.upKey.upKey.backspaceKey.enterKey.tabKey.ctrl_l\x16Key.enterKey.ctrl_l\x13Key.f5

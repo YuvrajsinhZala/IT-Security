@@ -1,0 +1,3 @@
+Key.shiftI am Key.shiftYuvrajsinh Key.shiftZlaKey.backspaceKey.backspacealaI am okI am Yuvrajsinh Zala<97><98><99> yBACKSPACE
+Key.alt_lKey.caps_lockKey.tabKey.endKey.downKey.page_downKey.left<12>Key.rightKey.num_lock<103><104><105><96><110>
++-*/
